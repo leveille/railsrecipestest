@@ -18,3 +18,5 @@
 
 # Ignore all cloud9 and hidden files
 .c9/
+
+.DS_Store
